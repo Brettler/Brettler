@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭💬 Full Stack Developer & Machine Learning enthusiast with a BS in Computational Biology.
+💬 Full Stack Developer & Machine Learning enthusiast with a BS in Computational Biology.🔭 <br>
 Passionate about technology, I continuously update my skills and embrace new technologies.<br>
 I'm an effective team player and independent learner, adept at tackling challenges and contributing to team success.<br>
 Feel free to reach out with questions or for collaboration on projects!
@@ -10,6 +10,26 @@ Feel free to reach out with questions or for collaboration on projects!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liad-brettler/) 
 
+## Projects
+
+Here are some of the projects I've worked on that showcase my skills and interests:
+
+### Project Name: Neural Net from Scratch
+- **Description:** An implementation of a neural network built from scratch using Python. This project demonstrates my understanding of machine learning fundamentals and my ability to implement algorithms without relying on high-level libraries.
+- **Tech Stack:** Python, NumPy, Matplotlib
+- **[View Repository](https://github.com/yourusername/neural-net-from-scratch)**
+
+### Project Name: Portfolio Website
+- **Description:** A personal portfolio website to showcase my work and experience. It's fully responsive and features a clean, modern UI/UX design.
+- **Tech Stack:** HTML5, CSS3, JavaScript, Bootstrap
+- **[View Repository](https://github.com/yourusername/portfolio-website)**
+- **[Live Demo](https://yourusername.github.io/portfolio-website/)**
+
+### Project Name: Chat App with WebSocket
+- **Description:** A real-time chat application that allows multiple users to communicate simultaneously. Implemented WebSocket for real-time bidirectional event-based communication.
+- **Tech Stack:** Node.js, Express, Socket.io, JavaScript, HTML5, CSS3
+- **[View Repository](https://github.com/yourusername/chat-app)**
+- **[Live Demo](https://chatapp-yourusername.herokuapp.com/)**
 ---
 [![](https://visitcount.itsvg.in/api?id=Brettler&icon=5&color=4)](https://visitcount.itsvg.in)
 
