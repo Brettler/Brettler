@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Brettler/Brettler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,7 +31,7 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=Brettler&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Brettler&limit=5&theme=dark&combine_all_yearly_contributions=true)
