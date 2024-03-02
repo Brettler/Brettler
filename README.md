@@ -12,7 +12,7 @@ Feel free to reach out with questions or for collaboration on projects!
 
 ## Projects
 
-Here are some of the projects I've worked on that showcase my skills and interests:
+Here are some of the projects I've worked on that you can tryout just by clicking:
 
 ### Project Name: Portfolio Website
 - **Description:** A personal portfolio website to showcase my work and experience. It's fully responsive and features a clean, modern UI/UX design.
