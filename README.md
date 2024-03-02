@@ -26,6 +26,6 @@ Here are some of the projects I've worked on that you can tryout just by clickin
 - **[View Repository](https://github.com/Brettler/Leaflet_Server-Support_Android_and_Website)**
 - **[Live Demo](https://leaflet-chat-app.oa.r.appspot.com/)**
 
-[![](https://visitcount.itsvg.in/api?id=Brettler&icon=5&color=4)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=Brettler&icon=5&color=4)](https://visitcount.itsvg.in)-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
