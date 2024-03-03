@@ -17,13 +17,14 @@ Here are some of the projects I've worked on that you can tryout just by clickin
 ### Project Name: Portfolio Website - Currently Under Maintenance.
 
 - **Description:** A personal portfolio website to showcase my work and experience. It's fully responsive and features a clean, modern UI/UX design.
-- **Tech Stack:** React, JavaScript, NPM, HTML, Bootstrap, CSS, Firebase
+- **Tech Stack:** JavaScript, React, NPM, HTML, Bootstrap, CSS, Firebase
 - **[View Repository](https://github.com/Brettler/liadweb)**
 - **[Live Demo](https://liadweb.web.app/)**
 
 ### Project Name: Leafletc (Chat App)
 - **Description:** A real-time chat application that allows multiple users to communicate simultaneously. Implemented WebSocket for real-time bidirectional event-based communication.
-- **Tech Stack:** Node.js, Express, Socket.io, MongoDB, Firebase, React, JavaScript, HTML, Bootstrap, CSS
+                   Feel free to add my username 'Liad' and send me a message :)
+- **Tech Stack:** JavaScript, Java, Node.js, Express, Socket.io, MongoDB, Firebase, React, HTML, Bootstrap, CSS, Android
 - **[View Repository](https://github.com/Brettler/Leaflet_Server-Support_Android_and_Website)**
 - **[Live Demo](https://leaflet-chat-app.oa.r.appspot.com/)**
 
