@@ -1,5 +1,5 @@
 # 💫 About Me:
-💬 Full Stack Developer & Machine Learning enthusiast with a BS in Computational Biology.🔭 <br>
+💬 Software development enthusiast with a BSc in Computer Science & Biology from Bar-Ilan University.🔭 <br>
 Passionate about technology, I continuously update my skills and embrace new technologies.<br>
 I'm an effective team player and independent learner, adept at tackling challenges and contributing to team success.<br>
 Feel free to reach out with questions or for collaboration on projects!
