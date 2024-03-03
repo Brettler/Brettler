@@ -15,7 +15,7 @@ Feel free to reach out with questions or for collaboration on projects!
 Here are some of the projects I've worked on that you can tryout just by clicking:
 
 ### Project Name: Portfolio Website - Currently Under Maintenance.
-![GitHub issues](https://img.shields.io/github/issues/brettler/liadweb)
+
 - **Description:** A personal portfolio website to showcase my work and experience. It's fully responsive and features a clean, modern UI/UX design.
 - **Tech Stack:** React, JavaScript, NPM, HTML, Bootstrap, CSS, Firebase
 - **[View Repository](https://github.com/Brettler/liadweb)**
