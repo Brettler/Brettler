@@ -21,7 +21,7 @@ Here are some of the projects I've worked on that you can tryout just by clickin
 - **[View Repository](https://github.com/Brettler/liadweb)**
 - **[Live Demo](https://liadweb.web.app/)**
 
-### Project Name: Leafletc (Chat App) - Currently Under Maintenance.
+### Project Name: Leaflet (Chat App) - Currently Under Maintenance.
 - **Description:** A real-time chat application that allows multiple users to communicate simultaneously. Implemented WebSocket for real-time bidirectional event-based communication.
                    Feel free to add my username 'Liad' and send me a message :)
 - **Tech Stack:** JavaScript, Java, Node.js, Express, Socket.io, MongoDB, Firebase, React, HTML, Bootstrap, CSS, Android
